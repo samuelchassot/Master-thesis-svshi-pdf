@@ -1,1 +1,1 @@
-# Master Thesis Samuel Chassot and Andrea Veneziano - SVSHI
+# Master Thesis - Samuel Chassot and Andrea Veneziano - SVSHI
